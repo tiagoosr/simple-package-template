@@ -1,0 +1,4 @@
+# Este pacote não tem dependências externas
+# Mas se tivesse, seria listado aqui
+# requests>=2.25.0
+# numpy>=1.19.0
